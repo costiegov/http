@@ -19,7 +19,7 @@ import { SearchResult } from './search-result.model';
   your browser is "localhost"
 */
 export const YOUTUBE_API_KEY =
-  '';
+  'x';
 export const YOUTUBE_API_URL =
   'https://www.googleapis.com/youtube/v3/search';
 
